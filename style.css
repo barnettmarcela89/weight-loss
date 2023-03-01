@@ -1,0 +1,129 @@
+pre {
+    font-size: large;
+}
+
+h1 {
+    text-indent: 50px;
+    font-size: xx-large;
+}
+
+p{
+    text-indent: 60px;
+    font-size: large;
+}
+
+body {
+    padding: 5%;
+} 
+
+h2 {
+    text-indent: 50px;
+    font-size: xx-large;
+}
+
+h3 {
+    text-indent: 50px;
+    font-size: xx-large;
+}
+
+h4 {
+    text-indent: 50px;
+    font-size: xx-large;
+}
+
+h5 {
+    text-indent: 50px;
+    font-size: xx-large;
+}
+
+h6 {
+    text-indent: 50px;
+    font-size: xx-large;
+}
+
+.first {
+    background-color: black;
+}
+
+.para {
+
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+header {
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 10px;
+}
+
+body {
+    background-image: url("nuvem.jpeg");
+    background-position: center;
+    background-size: cover;
+    
+    
+    
+    
+  }
+
+  .per {
+    text-align: center;
+  }
+
+  div {
+    opacity: 0.7;
+    background-color: rgb(248, 234, 234);
+    border-radius: 15px;
+  }
+  pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-align: justify;
+  }
+
+
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(198, 198, 198);
+    color: rgb(0, 0, 0);
+    
+    
+  }
+
+
+  #alpilean {
+    width: 250px;
+    height: 250px;
+    background: url('https://859eakiqo608txf-0brcl5qt5b.hop.clickbank.net') ;
+    
+  }
+
+  #prodentim{
+    width: 250px;
+    height: 250px;
+    background: url('https://55454fnhocn250f9veq4-jrhaw.hop.clickbank.net');
+    
+  }
+  
+
+  #redboost {
+    width: 250px;
+    height: 250px;
+    background: url('https://36f6bbphsdmz0y253dydw4bl8j.hop.clickbank.net') ;
+    
+  }
+
+  #ikaria {
+    width: 250px;
+    height: 250px;
+    background: url('https://bfcb89cfh4n12-bep5x5f-5s8w.hop.clickbank.net') ;
+    
+  }
+
+.fix {
+    text-align: center;
+    font-size: xx-large;
+}
